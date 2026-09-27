@@ -1,1 +1,5 @@
 from sklearn.feature_extraction.text import ...
+streamlit
+pandas
+numpy
+scikit-learn
